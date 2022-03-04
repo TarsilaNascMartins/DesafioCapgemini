@@ -7,12 +7,10 @@ n = 6
 
 
 Saída:
-          *
-        **
-      ***
-    ****
-  *****
-******
+   
+
+![image](https://user-images.githubusercontent.com/99733390/156679265-cab1b3bd-d712-4079-8449-d218ae2e29d3.png)
+
 
  2- Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. O site considera uma senha forte quando ela satisfaz os seguintes critérios:
 Possui no mínimo 6 caracteres.
